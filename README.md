@@ -1,11 +1,23 @@
- # HolyHallow
+# HolyHallow
 
-HolyHallow is an indie game development identity focused on creating original games and exploring game design, systems, and worldbuilding.
+## About
+HolyHallow is an indie game development identity focused on building original games, systems, and worlds.  
+The goal is long-term growth through real game development and experimentation.
 
-This repository is a public showcase of ongoing work, experiments, and foundations behind HolyHallow as an indie game developer. It is not a single project.
+## Team
+Solo indie developer.  
+Open to future collaborations.
 
-Website: https://holyhallow.com
+## Work Done
+- Game prototypes and early builds  
+- Gameplay system experiments  
+- Worldbuilding and design exploration  
+- Engine and tooling tests  
 
-## License
+## Contact
+Website: https://holyhallow.com  
+GitHub: https://github.com/LunoXD  
 
-Content here is for reference and learning purposes only unless stated otherwise.
+## Join Discord
+Community and development discussions:  
+https://discord.gg/YOUR_INVITE
